@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang 8 Bước Mua Nhà Thế Chấp",
+  "description": "Mua nhà đang thế chấp ngân hàng: Làm thế nào để đưa tiền mà vẫn kiểm soát được rủi ro? Nhận miễn phí cẩm nang 8 bước và bộ checklist từ Nguyễn Nam BĐS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
